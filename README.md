@@ -1,5 +1,9 @@
 # Real-Time Flight Status Board
 
+# Author
+
+Shourya Sharma - shouryasharma@gmail.com
+
 ## Overview
 
 This is a React-based application that simulates a real-time flight status board. The application fetches flight details from travelopia mock API, updates the data every x (configurable) seconds, and allows users to view more detailed information about a specific flight.

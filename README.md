@@ -33,7 +33,10 @@ This is a React-based application that simulates a real-time flight status board
 
 To set up the project locally:
 
-1. Unzip the file you received.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shouryasharma/flight-status-board.git
+   ```
 
 2. Navigate to the project directory:
 

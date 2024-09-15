@@ -68,16 +68,6 @@ To the tests:
 npm run test
 ```
 
-## Building for Production
-
-To create an optimized production build, run:
-
-```bash
-npm run build
-```
-
-The output will be in the `dist` directory.
-
 ## Project Structure
 
 ```
